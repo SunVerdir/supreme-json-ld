@@ -1,3 +1,6 @@
+![Status](https://img.shields.io/badge/Status-Prototype-blueviolet)
+![JSON-LD](https://img.shields.io/badge/Tech-JSON--LD%20%2F%20SEO-blue)
+
 # 👑 至高のJSON-LDコード（Supreme JSON-LD Code）
 
 Society 5.0や地方創生、AX（AI Transformation）およびSX/GXを推進する社会起業家・研究者のための、パーソナルブランディングとSEOを極めた最高峰のJSON-LD（構造化データ）テンプレートです。
